@@ -68,11 +68,11 @@ UGC-NET now has **two papers**, held in a single 3-hour session:
 ### 🧾 Paper 1 --- General (Teaching & Research Aptitude)
 
   -----------------------------------------------------------------------------------------------------------------------------------
-                                       Year Range Link
+  Year Range Link
   ----------------------------------------------- -----------------------------------------------------------------------------------
-                                       2023--2025 https://www.testbook.com/ugc-net/previous-year-papers
+  2023--2025 https://www.testbook.com/ugc-net/previous-year-papers
 
-                                       2019--2022 https://www.adda247.com/teaching-jobs-exam/ugc-net-previous-year-question-papers/
+  2019--2022 https://www.adda247.com/teaching-jobs-exam/ugc-net-previous-year-question-papers/
   -----------------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
