@@ -54,6 +54,11 @@ if __name__ == '__main__':
     t.pencolor(0.8,0.8,0.8)
     pv = [(50, 50), (100, 50), (100, 100), (50, 100)]
     drawPolygon(pv)
+    
+    #create polygon2
+    t.pencolor(0.8,0.8,0.8)
+    pv = [(80, 80)]
+    drawPolygon(pv)
 
     # scaling
     t.pencolor('black')

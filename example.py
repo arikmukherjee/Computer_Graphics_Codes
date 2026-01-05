@@ -1,0 +1,12 @@
+import turtle
+t=turtle.Turtle()
+t.penup()
+t.goto(-30,50)
+t.pendown()
+t.pensize(10)
+t.pencolor("Black")
+t.left(-180)
+t.backward(140)
+t.right(90)
+t.circle(70,330)
+turtle.done()
