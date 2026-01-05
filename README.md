@@ -1,24 +1,125 @@
-# UGC NET (University Grant Commision National Eligibility Test)
+# 📘 UGC NET --- Computer Science (CS)
 
-## If you liked the effort, give a star to the repository 
+### Complete Guide + Previous Year Question Papers (PYQs)
 
-# Wanna Contribute to this repository!
-Connect with me
+## 🔎 About UGC NET
 
-## Connect with me
+The **University Grants Commission -- National Eligibility Test
+(UGC-NET)** is conducted by **NTA** to determine eligibility for:
 
-<a href="https://www.linkedin.com/in/arik-mukherjee/" target="_blank">
-  <img src="assets/logos/linkedin.png" alt="LinkedIn" width="40" height="40" style="margin: 10px; box-shadow: 5px 5px 15px #0077B5, -5px -5px 15px #00aaff; border-radius: 50%;">
-</a>
-<a href="https://twitter.com/ArikMukherjee6" target="_blank">
-  <img src="assets/logos/twitter.png" alt="Twitter" width="40" height="40" style="margin: 10px; box-shadow: 5px 5px 15px #1DA1F2, -5px -5px 15px #33ccff; border-radius: 50%;">
-</a>
-<a href="https://github.com/arikmukherjee" target="_blank">
-  <img src="assets/logos/github.png" alt="GitHub" width="40" height="40" style="margin: 10px; box-shadow: 5px 5px 15px #181717, -5px -5px 15px #333333; border-radius: 50%;">
-</a>
-<a href="https://www.facebook.com/arikmukherjee.cs/" target="_blank">
-  <img src="assets/logos/facebook.png" alt="Facebook" width="40" height="40" style="margin: 10px; box-shadow: 5px 5px 15px #1877F2, -5px -5px 15px #3399ff; border-radius: 50%;">
-</a>
-<a href="https://www.instagram.com/arikmukherjee3" target="_blank">
-  <img src="assets/logos/instagram.png" alt="Instagram" width="40" height="40" style="margin: 10px; box-shadow: 5px 5px 15px #E4405F, -5px -5px 15px #ff5c8d; border-radius: 50%;">
-</a>
+-   👩‍🏫 **Assistant Professor**
+-   🎓 **Junior Research Fellowship (JRF)**
+
+------------------------------------------------------------------------
+
+## 🏗️ Exam Pattern (Current)
+
+UGC-NET now has **two papers**, held in a single 3-hour session:
+
+  -------------------------------------------------------------------------
+          Paper Description                         Questions         Marks
+  ------------- ------------------------ -------------------- -------------
+    **Paper 1** Teaching & Research                        50           100
+                Aptitude (common to all)                      
+
+    **Paper 2** Subject-specific                          100           200
+                (Computer Science)                            
+  -------------------------------------------------------------------------
+
+-   💻 Mode: Computer Based Test (CBT)\
+-   ⏳ Duration: **3 hours (single sitting)**\
+-   ❌ Negative marking: **None**
+
+> 📜 Earlier cycles also had **Paper 3 (Computer Science)** --- kept
+> below as legacy reference.
+
+------------------------------------------------------------------------
+
+## 🧠 Syllabus Overview
+
+### 📌 Paper 1 (General)
+
+-   Teaching aptitude\
+-   Research aptitude\
+-   Logical reasoning\
+-   Data interpretation\
+-   Reading comprehension\
+-   Communication\
+-   People & environment\
+-   Higher education system
+
+### 💻 Paper 2 (Computer Science)
+
+-   Discrete structures\
+-   Computer architecture\
+-   Programming, Data structures, Algorithms\
+-   Operating systems\
+-   DBMS\
+-   Computer networks\
+-   Software engineering\
+-   Theory of computation\
+-   Artificial intelligence\
+-   Web, cloud, and emerging topics
+
+------------------------------------------------------------------------
+
+## 📥 Previous Year Question Papers (PYQs)
+
+### 🧾 Paper 1 --- General (Teaching & Research Aptitude)
+
+  -----------------------------------------------------------------------------------------------------------------------------------
+                                       Year Range Link
+  ----------------------------------------------- -----------------------------------------------------------------------------------
+                                       2023--2025 https://www.testbook.com/ugc-net/previous-year-papers
+
+                                       2019--2022 https://www.adda247.com/teaching-jobs-exam/ugc-net-previous-year-question-papers/
+  -----------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+### 💻 Paper 2 --- Computer Science & Applications
+
+  ----------------------------------------------------------------------------------------------------------------------------------------------------
+                                       Year Range Link
+  ----------------------------------------------- ----------------------------------------------------------------------------------------------------
+                                       2023--2025 https://www.pw.live/ugc-net/exams/ugc-net-computer-science-previous-year-question-papers
+
+                                       2018--2024 https://prepp.in/cbse-ugc-net-exam/computer-science-and-applications-previous-year-question-papers
+
+           Archive (multiple years + answer keys) https://www.jrfadda.com/exams/ugc-net/ugc-net-computer-science-previous-year-question-papers-2026/
+  ----------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+### 🏛️ Legacy Paper 3 --- Computer Science (Old Pattern)
+
+These are from **older cycles** when UGC-NET had Papers I, II & III:
+
+-   https://rgpvmca.blogspot.com/p/ugc-net-exam.html
+
+------------------------------------------------------------------------
+
+## 🎯 Preparation Tips
+
+-   Start with **Paper 1 basics** --- scoring here boosts rank.
+-   Solve PYQs **year-wise** and analyze patterns.
+-   Use answer keys to understand mistakes.
+-   Practice mock tests under timed conditions.
+-   Revise frequently-repeated topics.
+
+------------------------------------------------------------------------
+
+## 🔗 Official Resources
+
+-   Previous Question Papers (NTA):\
+    https://www.ugcnetonline.in/previous_question_papers.php
+
+-   Official Syllabus:\
+    https://www.ugcnetonline.in/syllabus-new.php
+
+------------------------------------------------------------------------
+
+## 🙌 Contribute
+
+Found a broken link or have more verified PDFs?\
+Open an issue or submit a pull request!
