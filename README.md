@@ -80,13 +80,13 @@ UGC-NET now has **two papers**, held in a single 3-hour session:
 ### 💻 Paper 2 --- Computer Science & Applications
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------
-                                       Year Range Link
+  Year Range Link
   ----------------------------------------------- ----------------------------------------------------------------------------------------------------
-                                       2023--2025 https://www.pw.live/ugc-net/exams/ugc-net-computer-science-previous-year-question-papers
+  2023--2025 https://www.pw.live/ugc-net/exams/ugc-net-computer-science-previous-year-question-papers
 
-                                       2018--2024 https://prepp.in/cbse-ugc-net-exam/computer-science-and-applications-previous-year-question-papers
+  2018--2024 https://prepp.in/cbse-ugc-net-exam/computer-science-and-applications-previous-year-question-papers
 
-           Archive (multiple years + answer keys) https://www.jrfadda.com/exams/ugc-net/ugc-net-computer-science-previous-year-question-papers-2026/
+  Archive (multiple years + answer keys) https://www.jrfadda.com/exams/ugc-net/ugc-net-computer-science-previous-year-question-papers-2026/
   ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
